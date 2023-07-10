@@ -1,3 +1,4 @@
 a=5
-b=8
-print("The sum is", a+b)
+b=5
+prod = a+b
+print("The prod is", prod)
